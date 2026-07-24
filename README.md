@@ -21,14 +21,14 @@ Kamu bisa langsung menyalin seluruh kode di bawah ini dan menempelkannya (*paste
 
 | Login Screen | Home Kasir POS | Pemindai Barcode | Detail & Komposisi |
 |:---:|:---:|:---:|:---:|
-| ![Login](assets/<img width="720" height="1600" alt="Login" src="https://github.com/user-attachments/assets/868e9465-20f2-4ce6-931c-6bc654322ca7" />
-) |
-![Home](assets/<img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/73b3226a-388f-4418-b13b-7a3fe2ea20fa" />
-) |
-![Scanner](assets/<img width="720" height="1600" alt="scanner" src="https://github.com/user-attachments/assets/46e0babb-6ff3-493a-8883-8782369ce203" />
-) |
-![Detail](assets/<img width="720" height="1600" alt="detailproduk" src="https://github.com/user-attachments/assets/6420eb7c-abcb-408c-b51e-b654f0a7dc2d" />
-) |
+| [Login]( <img width="720" height="1600" alt="Login" src="https://github.com/user-attachments/assets/a10613d9-a894-481d-b6db-2508f8cda7be" />
+ ) |
+ [Home]( <img width="720" height="1600" alt="home" src="https://github.com/user-attachments/assets/6baa75e4-c98b-4873-9aba-829f74c0c848" />
+ ) |
+ [Scanner]( <img width="720" height="1600" alt="scanner" src="https://github.com/user-attachments/assets/e050126c-6bc6-40fa-891e-8e347f386734" />
+ ) |
+ [Detail]( <img width="720" height="1600" alt="detailproduk" src="https://github.com/user-attachments/assets/0e0d23e8-f4e9-47d1-9210-037ba5e16b74" />
+ ) |
 
 ---
 
@@ -67,8 +67,8 @@ npm install
 npx expo start -c
 
 Scan QR Code dengan Expo Go di HP.
-[ <img width="857" height="665" alt="Screenshot 2026-07-25 032232" src="https://github.com/user-attachments/assets/7113edec-9d93-46c7-9226-0086a38615be" />
- ]
+( <img width="857" height="665" alt="Screenshot 2026-07-25 032232" src="https://github.com/user-attachments/assets/7113edec-9d93-46c7-9226-0086a38615be" />
+ )
 
 ## 📦 Download APK
 
