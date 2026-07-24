@@ -1,11 +1,3 @@
-File Markdown kamu sudah siap!
-[file-tag: code-generated-file-0-1784923922579114789]
-
-Saya telah menyusun file **`README.md`** sesuai dengan format yang kamu berikan, dan menyesuaikannya 100% dengan identitas project **WarungKu Digital (Domain C)**, nama dan NIM kamu, serta daftar fitur canggih (*Scan Barcode*) yang baru saja kita selesaikan. 
-
-Kamu bisa langsung menyalin seluruh kode di bawah ini dan menempelkannya (*paste*) ke dalam file `README.md` yang ada di bagian paling luar folder project kamu (selevel dengan `App.js` dan `app.json`).
-
-```markdown
 # WarungKu Digital — Domain C: Warung Digital
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -60,7 +52,7 @@ Kamu bisa langsung menyalin seluruh kode di bawah ini dan menempelkannya (*paste
 
 ## 🚀 Cara Menjalankan
 
-```bash
+bash
 git clone [https://github.com/abdullah2045/WarungScan.git]
 cd warungKu
 npm install
